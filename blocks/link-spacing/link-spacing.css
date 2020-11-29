@@ -1,8 +1,8 @@
 @media screen and (max-width: 695px) {
-    .footer__link_spacing {
+    .link-spacing {
         margin-bottom: 32px;
     }
-    .footer__link_spacing:nth-last-child(1) {
+    .link-spacing:nth-last-child(1) {
         margin-bottom: 0;
     }
 }
