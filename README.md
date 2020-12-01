@@ -1,6 +1,11 @@
 # Проект 3: Путешествие по России
 
+Ссылка на проект: https://aliiat-20.github.io/russian-travel/index.html
+
 Проект о путешествии по России.
 Проект реализован по методологии БЭМ с учётом правил Nested.
 
-Ссылка на проект: https://aliiat-20.github.io/russian-travel/index.html
+В проекте использованы такие технологии, как:
+- Grid Layout;
+- Flex-box;
+- медиазапросы.
